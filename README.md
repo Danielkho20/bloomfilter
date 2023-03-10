@@ -12,3 +12,12 @@ it will simply mark it as filled.  So, many keys might map to same filled bucket
 
 An empty bloom filter is a bit array of m bits, all of which are initially set to zero. A bit array is an extremely space-efficient data structure that has each 
 position in the array set to either 0 or 1.
+
+The applications of Bloom Filter are:
+
+-Weak password detection
+-Internet Cache Protocol
+-Safe browsing in Google Chrome
+-Wallet synchronization in Bitcoin
+-Hash based IP Traceback
+-Cyber security like virus scanning
