@@ -15,9 +15,9 @@ position in the array set to either 0 or 1.
 
 The applications of Bloom Filter are:
 
--Weak password detection
--Internet Cache Protocol
--Safe browsing in Google Chrome
--Wallet synchronization in Bitcoin
--Hash based IP Traceback
--Cyber security like virus scanning
+- Weak password detection
+- Internet Cache Protocol
+- Safe browsing in Google Chrome
+- Wallet synchronization in Bitcoin
+- Hash based IP Traceback
+- Cyber security like virus scanning
